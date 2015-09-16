@@ -1,0 +1,3 @@
+001-0032b00	T 001-0032b	buddhist/T-taisho/T20/00/T20-0032.png
+001-0032c00	T 001-0032c	buddhist/T-taisho/T20/00/T20-0032.png
+001-0033a00	T 001-0033a	buddhist/T-taisho/T20/00/T20-0033.png
